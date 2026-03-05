@@ -43,6 +43,8 @@ LLM API for generating responses
 Speech processing for voice input/output
 
 📂 Project Structure
+
+
 chatbot-react
 │
 ├── frontend
@@ -63,6 +65,8 @@ chatbot-react
 │   └── requirements.txt
 │
 └── README.md
+
+
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/bindumadhavi889/chatbot-react.git
