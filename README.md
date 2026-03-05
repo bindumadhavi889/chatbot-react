@@ -141,7 +141,3 @@ Multi-language support
 Better UI animations
 
 Deploy on cloud (AWS / Vercel / Render)
-
-👩‍💻 Author
-
-Bindumadhavi Penigandla
