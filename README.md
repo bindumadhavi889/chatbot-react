@@ -42,31 +42,6 @@ LLM API for generating responses
 
 Speech processing for voice input/output
 
-📂 Project Structure
-
-
-chatbot-react
-│
-├── frontend
-│   ├── src
-│   │   ├── components
-│   │   │   ├── MsgContainer.jsx
-│   │   │   ├── Chat.jsx
-│   │   │   ├── Recording.jsx
-│   │   │   └── Dropdown.jsx
-│   │   │
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   │
-│   └── package.json
-│
-├── backend
-│   ├── main.py
-│   └── requirements.txt
-│
-└── README.md
-
-
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/bindumadhavi889/chatbot-react.git
